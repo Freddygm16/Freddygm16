@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Berkeli</h1>
+<h1 align="center">Hi 👋, I'm Freddy</h1>
 
-<img src="https://raw.githubusercontent.com/berkeli/berkeli/main/assets/header.jpg" align="center" alt="berkeli header image">
+<img src="https://raw.githubusercontent.com/freddygm16/freddygm16/main/assets/header.jpg" align="center" alt="berkeli header image">
 
 -------------------
 &emsp;
