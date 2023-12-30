@@ -3,21 +3,22 @@
 <img src="https://raw.githubusercontent.com/freddygm16/freddygm16/main/Portada linkeid.jpg" align="center" alt="berkeli header image">
 
 -------------------
+
 &emsp;
 <h3 align="left">I'm Freddy, Recently graduated in Systems Engineering, I have various skills in technologies, both in web development and mobile. I also have experience as an analyst. My focus extends to both frontend and backend. Passionate about technology, my autodidactic and proactive mentality motivates me to seek opportunities to apply my knowledge and contribute to the improvement of companies. While I continue to improve and strengthen my professional profile.</h3>
 &emsp;
 
 -------------------
+
+## My focus within software engineering covers:
 &emsp;
-My focus within software engineering covers:
-
-- 💻 Web development 
-- 📲 Mobile development  
-- 📄 Programmer Analyst
-
+- 💻 Web development.
+- 📲 Mobile development.
+- 📄 Programmer Analyst.
 &emsp;
 
 -------------------
+
 ## My Social Networks:
 &emsp;
 <a href="https://www.linkedin.com/in/freddy-garcia-mora-8b0518224/?locale=en_US">
@@ -28,8 +29,10 @@ My focus within software engineering covers:
 </a>
 &emsp;
 
-## 🛠️ My Skills
 -------------------
+
+## 🛠️ My Skills
+
 ### Programming languages:
 &emsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -57,8 +60,8 @@ My focus within software engineering covers:
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
-![Vs Studio](https://img.shields.io/badge/-Visualstudio-000?&logo=visualstudio)
-![Net beans](https://img.shields.io/badge/-Netbeans-000?&logo=Apachenetbeanside)
+![Vs Studio](https://img.shields.io/badge/-Visual%20Studio-000?&logo=visualstudio)
+![Net beans](https://img.shields.io/badge/-Net%20Beans-000?&logo=Apachenetbeanside)
 ![Pycharm](https://img.shields.io/badge/-Pycharm-000?&logo=Pycharm)
 
 ### Databases:
@@ -73,18 +76,5 @@ My focus within software engineering covers:
 &emsp;
 ![Azure](https://img.shields.io/badge/-Azure-000?&logo=Microsoft-Azure)
 ![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx)
-
-
 &emsp;
-
-## 📈 My GitHub Stats and Activity
-
-### 💻 Profile Stats
-
-<img alt="Freddy's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Freddygm16&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/><img alt="Berkeli's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Freddygm16&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-
-
-### 🔥 Streak Stats
-
-![Berkeli's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=berkeli&theme=tokyonight)
 
