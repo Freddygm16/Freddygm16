@@ -5,13 +5,12 @@
 -------------------
 
 &emsp;
-<h3 align="left">I'm Freddy, Recently graduated in Systems Engineering, I have various skills in technologies, both in web development and mobile. I also have experience as an analyst. My focus extends to both frontend and backend. Passionate about technology, my autodidactic and proactive mentality motivates me to seek opportunities to apply my knowledge and contribute to the improvement of companies. While I continue to improve and strengthen my professional profile.</h3>
+<h3 align="left">I'm Freddy😄, Recently graduated in Systems Engineering, I have various skills in technologies, both in web development and mobile. I also have experience as an analyst. My focus extends to both frontend and backend. Passionate about technology, my autodidactic and proactive mentality motivates me to seek opportunities to apply my knowledge and contribute to the improvement of companies. While I continue to improve and strengthen my professional profile.</h3>
 &emsp;
 
 -------------------
 
-## My focus within software engineering covers:
-&emsp;
+## 💪 My focus within software engineering covers:
 - 💻 Web development.
 - 📲 Mobile development.
 - 📄 Programmer Analyst.
@@ -19,7 +18,7 @@
 
 -------------------
 
-## My Social Networks:
+## 👨‍💼 My Social Networks:
 &emsp;
 <a href="https://www.linkedin.com/in/freddy-garcia-mora-8b0518224/?locale=en_US">
     ![Linkedin: berkeli](https://img.shields.io/badge/-berkeli-blue?style=flat-square&logo=Linkedin&logoColor=white)
