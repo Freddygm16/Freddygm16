@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, I'm Freddy</h1>
 
-<img src="https://raw.githubusercontent.com/freddygm16/freddygm16/main/header.jpg" align="center" alt="berkeli header image">
+<img src="https://raw.githubusercontent.com/freddygm16/freddygm16/main/Portada linkeid.jpg" align="center" alt="berkeli header image">
 
 -------------------
 &emsp;
-<h3 align="left">Hi 👋, I'm Berkeli, Site Reliability Engineer based in London. I have extensive experience working in agile environment on several projects as a full stack engineer.</h3>
+<h3 align="left">I'm Freddy, Recently graduated in Systems Engineering, I have various skills in technologies, both in web development and mobile. I also have experience as an analyst. My focus extends to both frontend and backend. Passionate about technology, my autodidactic and proactive mentality motivates me to seek opportunities to apply my knowledge and contribute to the improvement of companies. While I continue to improve and strengthen my professional profile.</h3>
 &emsp;
 
 -------------------
 &emsp;
+My focus within software engineering covers:
 
-- 🔭 I’m currently working on [Mentor Bot](https://mentor.love/) for CYF Products. 
-- 📚 I'm also doing the [Immersive Engineering Course](https://github.com/CodeYourFuture/immersive-go-course), a program aimed at Site Reliability Engineering designed by CodeYourFuture in partnership with [Slack](https://slack.com/).
-
-- 🌱 I’m currently learning **GO, Observability & Monitoring of Distributed Systems, Event Driven Systems**
-
-- 💬 Ask me about **AWS, Terraform, TypeScript, SQL/NoSQL Databases**
+- 💻 Web development 
+- 📲 Mobile development  
+- 📄 Programmer Analyst
 
 &emsp;
 
@@ -24,29 +22,11 @@
 
 
 &emsp;
-<a href="https://www.linkedin.com/in/berkeli/">
+<a href="https://www.linkedin.com/in/freddy-garcia-mora-8b0518224/?locale=en_US">
     ![Linkedin: berkeli](https://img.shields.io/badge/-berkeli-blue?style=flat-square&logo=Linkedin&logoColor=white)
 </a>
-<a href="https://twitter.com/intent/follow?screen_name=halmyradov">
-    ![Twitter: halmyradov](https://img.shields.io/twitter/follow/halmyradov?style=social)
-</a>
-<a href="https://www.instagram.com/halmyradov/">
-    ![Instagram: halmyradov](https://img.shields.io/badge/-halmyradov-000?&logo=Instagram)
-</a>
-<a href="https://github.com/berkeli">
+<a href="https://github.com/Freddygm16">
     ![GitHub: berkeli](https://img.shields.io/github/followers/berkeli?label=follow&style=social)
-</a>
-<a href="https://stackoverflow.com/users/14958897/berkeli">
-    ![StackOverflow: berkeli](https://img.shields.io/stackexchange/stackoverflow/r/14958897?style=social)
-</a>
-<a href="https://www.codewars.com/users/BerkeliH">
-    ![CodeWars: BerkeliH](https://www.codewars.com/users/BerkeliH/badges/small)
-</a>
-<a href="https://www.leetcode.com/berkeli/">
-    ![LeetCode: berkeli](https://img.shields.io/badge/-berkeli-000?&logo=LeetCode)
-</a>
-<a href="https://codepen.io/berkeli">
-    ![CodePen: berkeli](https://img.shields.io/badge/-berkeli-000?&logo=CodePen)
 </a>
 
 &emsp;
@@ -57,12 +37,9 @@
 &emsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
-![GO](https://img.shields.io/badge/-GO-000?&logo=Go)
-![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
-![HCL](https://img.shields.io/badge/-HCL-000?&logo=HCL)
 ![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![APEX](https://img.shields.io/badge/-APEX-000?&logo=Salesforce)
+![C#](https://img.shields.io/badge/-APEX-000?&logo=Salesforce)
 ![LWC](https://img.shields.io/badge/-LWC-000?&logo=Salesforce)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 ![PineScript](https://img.shields.io/badge/-PineScript-000?&logo=TradingView)
