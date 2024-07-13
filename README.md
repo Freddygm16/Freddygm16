@@ -21,7 +21,7 @@
 ## 👨‍💼 My Social Networks:
 &emsp;
 <a href="https://www.linkedin.com/in/freddy-garcia-mora-8b0518224/?locale=en_US">
-    ![Linkedin: berkeli](https://img.shields.io/badge/-berkeli-blue?style=flat-square&logo=Linkedin&logoColor=white)
+    ![Linkedin: Freddy](https://img.shields.io/badge/-berkeli-blue?style=flat-square&logo=Linkedin&logoColor=white)
 </a>
 <a href="https://github.com/Freddygm16">
     ![GitHub: berkeli](https://img.shields.io/github/followers/berkeli?label=follow&style=social)
